@@ -85,7 +85,7 @@ var SelectShipping = React.createClass({
                   backgroundColor: '#000',
                   color: '#fff'
                 }}>
-          {this.state.value}
+          Selected Values: {this.state.value}
         </figure>
 			</section>
 		);
