@@ -6,7 +6,7 @@
 
     ```
     git clone https://github.com/dvzrd/react-skubana.git
-    cd your-project-name
+    cd react-skubana
     npm install
     ```
 
